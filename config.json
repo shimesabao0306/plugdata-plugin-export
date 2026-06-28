@@ -1,9 +1,9 @@
 [
   {
-    "name": "SPEC COMP",
+    "name": "DIFFUSOR",
     "author": "Nasko",
-    "path": "Plugins/SPEC COMP.plugdata",
-    "patch": "SPEC COMP.pd",
+    "path": "Plugins/DIFFUSOR.plugdata",
+    "patch": "DIFFUSOR.pd",
     "formats": ["VST3", "CLAP", "LV2"],
     "type": "fx",
     "version": "1.0.0",
