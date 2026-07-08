@@ -1,10 +1,12 @@
 [
   {
-    "name": "DIFFUSOR",
+    "name": "N-CURVE COMP",
     "author": "Nasko",
-    "path": "Plugins/DIFFUSOR.plugdata",
-    "patch": "DIFFUSOR.pd",
-    "formats": ["VST3", "CLAP", "LV2"],
+    "path": "Plugins/N-CURVE_COMP.pd",
+    "patch": "N-CURVE_COMP.pd",
+    "formats": [
+      "VST3"
+    ],
     "type": "fx",
     "version": "1.0.0",
     "enable_gem": false,
