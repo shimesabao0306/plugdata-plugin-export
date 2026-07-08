@@ -2,13 +2,13 @@
   {
     "name": "N-CURVE COMP",
     "author": "Nasko",
-    "path": "Plugins/N-CURVE_COMP.pd",
-    "patch": "N-CURVE_COMP.pd",
+    "path": "Plugins/N-CURVE COMP.pd",
+    "patch": "N-CURVE COMP.pd",
     "formats": [
       "VST3"
     ],
     "type": "fx",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "enable_gem": false,
     "enable_sfizz": false,
     "enable_ffmpeg": false
