@@ -2,8 +2,8 @@
   {
     "name": "N-CURVE COMP",
     "author": "Nasko",
-    "path": "Plugins/N-CURVE COMP.pd",
-    "patch": "N-CURVE COMP.pd",
+    "path": "Plugins/N-CURVE_COMP.pd",
+    "patch": "N-CURVE_COMP.pd",
     "formats": [
       "VST3"
     ],
