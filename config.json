@@ -1,9 +1,9 @@
 [
   {
-    "name": "N-CURVE COMP",
+    "name": "N-IRIS",
     "author": "Nasko",
-    "path": "Plugins/N-CURVE_COMP.zip.zip",
-    "patch": "N-CURVE_COMP.pd",
+    "path": "Plugins/N-IRIS.zip",
+    "patch": "N-IRIS.pd",
     "formats": ["VST3"],
     "type": "fx",
     "version": "1.0.0",
