@@ -1,12 +1,12 @@
 [
   {
-    "name": "N-IRIS",
+    "name": "SILK",
     "author": "Nasko",
-    "path": "Plugins/N-IRIS.zip",
-    "patch": "N-IRIS.pd",
+    "path": "Plugins/SILK.plugdata",
+    "patch": "SILK.pd",
     "formats": ["VST3"],
     "type": "fx",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "enable_gem": false,
     "enable_sfizz": false,
     "enable_ffmpeg": false
